@@ -6,7 +6,7 @@ export default function Home() {
     <main className={styles.main}>
       <div className={styles.description}>
         <p>
-          Get GET&nbsp;
+          Get started by editing --- aaaaa&nbsp;
           <code className={styles.code}>src/app/page.tsx</code>
         </p>
         <div>
@@ -59,7 +59,7 @@ export default function Home() {
           rel="noopener noreferrer"
         >
           <h2>
-            Learn <span>-&gt;</span>
+            Learn-----------------"" <span>-&gt;</span>
           </h2>
           <p>Learn about Next.js in an interactive course with&nbsp;quizzes!</p>
         </a>
