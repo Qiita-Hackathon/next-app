@@ -17,8 +17,8 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>
-        <div style={{ backgroundColor: "black", padding: "10px" }}>
-          <h1 style={{ color: "white" }}>Next.js Lab</h1>
+        <div style={{ backgroundColor: "white", padding: "10px", boxShadow: "0px 2px 5px gray" }}>
+          <h1 style={{ color: "black" }}>Next.js Lab</h1>
         </div>
         {children}
         </body>

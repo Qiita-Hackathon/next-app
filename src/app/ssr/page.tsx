@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>ISR</div>
+    <div>SSR</div>
   )
 }
 
